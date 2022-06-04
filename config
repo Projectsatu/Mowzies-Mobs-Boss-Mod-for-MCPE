@@ -6,11 +6,11 @@
       "status": true,
       "link": "https://ipsaya.com/hostinglokasi.php",
       
-      "addon": true,
-      "maps": true,
-      "texture": true,
+      "addon": false,
+      "maps": false,
+      "texture": false,
       "skin": true,
-      "more": true,
+      "more": false,
       
       "admob_open_ads": "ca-app-pub-3940256099942544/3419835294xxx",
       "admob_banner": "ca-app-pub-3940256099942544/6300978111",
@@ -63,7 +63,7 @@
     }
   ],
   "Skins": [
-    [
+    
   {
     "id": 1,
     "name_skin": "skin 1",
@@ -88,7 +88,7 @@
     "skin_url": "https://lh3.googleusercontent.com/gfm5tIooIEh89Th3Ckag08FZHoZwdxkynJA5kr9RgHmyAaqMQ9IUrhiTsiug07uuN8_9q7xQC-OM3BISP4J_0A",
     "view_skin": "https://lh3.googleusercontent.com/HCkqtEl3AlkyM2UsbWH4D5HDfz-EmR-KaC6QKGoNlWrzYEGp163pEG2TTbwhSfaCUR00cn3mQw-_AbhvgzLURQ"
   }
-]
+
   ],
   "More":
   [
