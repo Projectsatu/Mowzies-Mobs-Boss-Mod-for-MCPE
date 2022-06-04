@@ -1,0 +1,109 @@
+{
+  "Config": [
+    {
+      "interval": 5,
+      "backup": "unity",
+      "status": true,
+      "link": "https://ipsaya.com/hostinglokasi.php",
+      
+      "addon": true,
+      "maps": true,
+      "texture": true,
+      "skin": true,
+      "more": true,
+      
+      "admob_open_ads": "ca-app-pub-3940256099942544/3419835294xxx",
+      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+      "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native": "ca-app-pub-3940256099942544/2247696110",
+     
+      
+      "unity_banner": "Banner_Android",
+      "unity_inter": "Interstitial_Android",
+      
+      
+      "applovin_banner": "unitid",
+      "applovin_inter": "unitid",
+      "applovin_native": "unitid",
+      
+      "ironsource_banner": "1215fccad",
+      "ironsource_inter": "1215fccad"
+      
+      
+    }
+  ],
+  "Addon": [
+    {
+      "name": "yCreatures Origins V3.0.10",
+      "role": "yCreatures, an amazing super complete add-on that brings even more fun to your Minecraft worlds!! \n \n This addon contains several new animals for your game, some cute, some not so friendly, but all amazing and super fun, with various varieties of animation, behavior, models and textures.",
+      "image": "https://hunterlinedev.com/Hunter Line/Origins mod for MCPE/Data/Addons/new/Allay/2/1.png",
+      "file_url": "https://hunterlinedev.com/Hunter Line/Origins mod for MCPE/Data/Addons/new/Allay/2/Minecon_2021_Mobs_Addon.mcaddon",
+      "imgcoversatu": "https://hunterlinedev.com/Hunter Line/Origins mod for MCPE/Data/Addons/new/Allay/2/2.png",
+      "imgcoverdua": "https://hunterlinedev.com/Hunter Line/Origins mod for MCPE/Data/Addons/new/Allay/1/3.png"
+    }
+  ],
+  "Map": [
+    {
+      "name": "505 The Originadwddas",
+      "role": "Have you ever wondered that Entity_505 it’s a rip off about Entity303? If yes then I suggest you play this map before say anything else and explore what will happen… \n \n This is another map I create and this time i will show you how the Entity_505 created everything has their origins but most people don’t care so in this short map you gonna play as me and find out the origins of Entity_505",
+      "image": "https://hunterlinedev.com/Hunter Line/Origins mod for MCPE/Data/Maps/new/Backroom/1/1.jpeg",
+      "file_url": "https://hunterlinedev.com/Hunter Line/Origins mod for MCPE/Data/Maps/new/Backroom/1/TheBackroomsMap_Darkness (1).mcworld",
+      "imgcoversatu": "https://hunterlinedev.com/Hunter Line/Origins mod for MCPE/Data/Maps/new/Backroom/1/2.jpeg",
+      "imgcoverdua": "https://hunterlinedev.com/Hunter Line/Origins mod for MCPE/Data/Maps/new/Backroom/1/3.jpeg"
+    }
+  ],
+  "Texture": [
+    {
+      "name": "Custom Damage Particles V2",
+      "role": "Have you ever wished that bedrock edition had more cool PVP/aesthetic features like the Java Edition? Or maybe you wish to spruce up your bedrock PVP experience, then this pack is perfect for you. Whenever you or another player take damage, unique particles emit. You can choose between now 22 total different settings and color options for even further customizability. ",
+      "image": "https://hunterlinedev.com/Hunter Line/Origins mod for MCPE/Data/Texture/41/empatpuluhsatu.png",
+      "file_url": "https://hunterlinedev.com/Hunter Line/Origins mod for MCPE/Data/Texture/41/damage_particles_v2_by_ambient.mcpack",
+      "imgcoversatu": "https://hunterlinedev.com/Hunter Line/Origins mod for MCPE/Data/Texture/41/delapanpuluhsatu_desc.png",
+      "imgcoverdua": "https://hunterlinedev.com/Hunter Line/Origins mod for MCPE/Data/Texture/41/delapanpuluhdua_desc.png"
+    }
+  ],
+  "Skins": [
+    [
+  {
+    "id": 1,
+    "name_skin": "skin 1",
+    "skin_url": "https://lh3.googleusercontent.com/rZzbPEqqwrUX9dnaHgrbwCz3E27PnG_a_-MoB3PtUp5eP0-Ekamn13HHeqhAo4Fo__MS6BCDaO-MbfVe6FXsrtHWAWMSQJtBPX0",
+    "view_skin": "https://lh3.googleusercontent.com/vcdaxQaUfL0G4kskk8mwrgtevHD9VLb98GfpFYbFG9_nlB63lzPq1xBRzankRTq5u8gNxp1W6cntCkuDs--MNFRjfFgSxu5_2VA0"
+  },
+  {
+    "id": 2,
+    "name_skin": "skin 2",
+    "skin_url": "https://lh3.googleusercontent.com/0ygOKkLXBtwV82pYSglfCyYz6lieUQbKRTAFF6NjpSrv8l5rq-t-gFo5EaRpOistavHh6f6K4m5_ebYvHA1tAV8",
+    "view_skin": "https://lh3.googleusercontent.com/ISGfr8_P59N6wJV0z8CigV6luH-Kac9IDDyIyKo3Wmrm6zoEN_r_PEOf4xv3n-Ae6efxPHjr0vh8mgNSPYR2Tw"
+  },
+  {
+    "id": 3,
+    "name_skin": "skin 3",
+    "skin_url": "https://lh3.googleusercontent.com/OSMUT0Lvc1ECdpIrIxEgyz0DAMZWS0GmnsMYPVhE_0A4bWUuIr9sMxGzINJh7liI49EdhHqyABJvwAxfpi-lqOQ",
+    "view_skin": "https://lh3.googleusercontent.com/vqU311so02a5WarPQixo17szCxqDLBmBcg8TVsR0v28TlbZWcbhtHfmLaDVqoGk5wmPG6cBKpvM7h3kLqDTlnQ"
+  },
+  {
+    "id": 4,
+    "name_skin": "skin 4",
+    "skin_url": "https://lh3.googleusercontent.com/gfm5tIooIEh89Th3Ckag08FZHoZwdxkynJA5kr9RgHmyAaqMQ9IUrhiTsiug07uuN8_9q7xQC-OM3BISP4J_0A",
+    "view_skin": "https://lh3.googleusercontent.com/HCkqtEl3AlkyM2UsbWH4D5HDfz-EmR-KaC6QKGoNlWrzYEGp163pEG2TTbwhSfaCUR00cn3mQw-_AbhvgzLURQ"
+  }
+]
+  ],
+  "More":
+  [
+      
+      
+  
+    {
+      "id":1,
+      "title":"",
+      "image":"",
+      "link":"https://jsoneditoronline.org/#left=local.xilugi&right=local.dosego"
+    }
+  
+
+      
+      
+      ]
+}
